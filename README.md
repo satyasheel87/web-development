@@ -1,3 +1,4 @@
 # web-development
+This is my first Git Reposetory.
 <br>
-This is the firt reposetory of my life
+Author - Satyasheel Gautam
